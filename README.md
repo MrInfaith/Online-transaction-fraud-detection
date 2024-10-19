@@ -8,7 +8,7 @@ The dataset is Imbalanced .
 ##### WITHOUT Handling imbalanced dataset:-
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Best Model:- 
-1. Decision Tree 
+1. Decision Tree :-
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
 | 0     | 1.00      | 1.00   | 1.00     | 1,876,979 |
@@ -56,7 +56,7 @@ Best Model:-
 3. SMOTE
 Best Model:-
 
-- Decision Tree
+- Decision Tree :-
 | Class | Precision | Recall | F1-Score | Support    |
 |-------|-----------|--------|----------|------------|
 | 0     | 1.00      | 1.00   | 1.00     | 1,876,979  |
