@@ -1,11 +1,12 @@
-This project is related to the Online fraud In finanace. 
-The Objective of this Project is detect the fraud . 
-The dataset contains more than 6 lakhs rows. 
-Most of columns is equal to zero.
-The dataset is Imbalanced .
-
-
-##### WITHOUT Handling imbalanced dataset:-
+- This project is related to the Online fraud In finanace. 
+- The Objective of this Project is detect the fraud . 
+- The dataset contains more than 6 lakhs rows. 
+- Most of columns is equal to zero.
+- The dataset is Imbalanced .
+---------------------------------------------------------------------------------------------------------------------
+  dataset link:-https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+---------------------------------------------------------------------------------------------------------------------
+#### WITHOUT Handling imbalanced dataset:-
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Best Model:- 
 1. Decision Tree :-
@@ -29,7 +30,7 @@ Best Model:-
 | **Weighted Avg** | 1.00   | 1.00   | 1.00     | 1,879,422  |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-###### Handling Imbalaced Dataset
+#### Handling Imbalaced Dataset
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 1. Undersampling:
 Best Model:-
