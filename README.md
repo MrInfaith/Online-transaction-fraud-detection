@@ -9,6 +9,7 @@ The dataset is Imbalanced .
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Best Model:- 
 1. Decision Tree :-
+   
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
 | 0     | 1.00      | 1.00   | 1.00     | 1,876,979 |
@@ -33,6 +34,7 @@ Best Model:-
 1. Undersampling:
 Best Model:-
 - Decision Tree:- Too Bad for precison and f1-score
+  
 | Class | Precision | Recall | F1-Score | Support    |
 |-------|-----------|--------|----------|------------|
 | 0     | 1.00      | 0.99   | 0.99     | 1,876,979  |
@@ -45,6 +47,7 @@ Best Model:-
 Best Model:- 
 
 - Decision Tree :-
+  
 | Class | Precision | Recall | F1-Score | Support    |
 |-------|-----------|--------|----------|------------|
 | 0     | 1.00      | 1.00   | 1.00     | 1,876,979  |
@@ -57,6 +60,7 @@ Best Model:-
 Best Model:-
 
 - Decision Tree :-
+  
 | Class | Precision | Recall | F1-Score | Support    |
 |-------|-----------|--------|----------|------------|
 | 0     | 1.00      | 1.00   | 1.00     | 1,876,979  |
@@ -68,6 +72,7 @@ Best Model:-
 4. Ensemble technique:
 
 - BalancedRandomForestClassifier: Precision and F1-score is too bad
+  
 | Class | Precision | Recall | F1-Score | Support    |
 |-------|-----------|--------|----------|------------|
 | 0     | 1.00      | 0.98   | 0.99     | 1,876,979  |
